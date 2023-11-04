@@ -4,7 +4,7 @@ Get Daily Post's 👇
 👨‍💻 • Hacking Tip & Tricks
 📥 • DM for Collab
 
-Instagram - https://www.instagram.com/code.api/
+Instagram - https://instagram.com/code.api?igshid=OGQ5ZDc2ODk2ZA%3D%3D
 YouTube - https://www.youtube.com/channel/UChRmODHRDluPTdjOjlAo-3w
 <!---
 code-apis/code-apis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
